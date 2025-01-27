@@ -9,7 +9,7 @@
     "weight": "3 g",
     "volume": "3 ml",
     "price": "2000 USD",
-    "price_postapoc": 0,
+    "price_postapoc": "1 cent",
     "material": [ "flesh" ],
     "symbol": "ɵ",
     "color": "dark_gray",

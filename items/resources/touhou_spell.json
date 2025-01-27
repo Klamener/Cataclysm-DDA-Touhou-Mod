@@ -8,7 +8,7 @@
     "description": "Clumps of human egg cells.  While extremely lurid, these can be used for substitutes in certain dark Taoist techniques.",
     "weight": "3 g",
     "volume": "3 ml",
-    "price": 200000,
+    "price": "2000 USD",
     "price_postapoc": 0,
     "material": [ "flesh" ],
     "symbol": "ɵ",
